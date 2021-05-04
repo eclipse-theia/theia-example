@@ -30,6 +30,11 @@
       "config": {
         "startupTimeout": -1
       }
+    },
+    "generator": {
+      "config": {
+        "preloadTemplate": "./resources/preload.html"
+      }
     }
   },
   "dependencies": {
